@@ -18,8 +18,8 @@ running on http://localhost:8080/.
 
 
 ```sh
-git clone git@github.com:raziboy939/phillipshuesim.git #or download the zip file and extract contents.
-cd phillipshuesim
+git clone git@github.com:raziboy939/phillipshuesimulation.git #or download the zip file and extract contents.
+cd phillipshuesimulation
 npm install
 node main.js
 ```
