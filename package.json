@@ -1,0 +1,21 @@
+{
+  "name": "phillipshue",
+  "version": "1.0.0",
+  "description": "This program will simulate Phillips Hue lighting by running a virtal environment to mimic the hue hardware and make http requests to the simulated hardware, format and publish the results.",
+  "main": "main.js",
+  "dependencies": {
+    "deep-object-diff": "^1.0.4",
+    "hue-simulator": "^0.0.11",
+    "prettyjson": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "phillips",
+    "hue"
+  ],
+  "author": "Rahman Raza",
+  "license": "ISC"
+}
